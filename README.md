@@ -5,7 +5,7 @@ I am a Mechanical Engineering student at BYU-Idaho (Expected Graduation April 20
 ### Core Competencies:
 * **Simulation & FEA:** MOOSE Framework, Coreform Cubit, ParaView, SolidWorks, Autodesk Inventor
 * **Software & Scripting:** Python, JavaScript, Git, Google Apps Script
-* **Languages:** English (Native), Spanish (C1—Professional Fluency)
+* **Languages:** English (Native), Spanish (Professional Fluency—C1)
 
 ### Featured Projects:
 * **[HTGR Graphite Monolith FEA](https://github.com/Barik-D-Boley/mhtgr-thermal-mechanical-fea):** Coupled thermo-mechanical simulation of an IG-110 graphite monolith using the MOOSE Framework. Features an 18,430-element HEX8 mesh and isostatic 3-2-1 point-constraint scheme.
